@@ -1,11 +1,3 @@
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
-      css: "/assets/css/style.css"
-      js: "/assets/js/darkmode.js"
 title: Rohit Panwar
 logo: /Assets/Images/img.png
 #description: text below image

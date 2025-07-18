@@ -48,3 +48,10 @@ Cybersecurity • Ethical Hacking • Game Development • System Programming �
 
 > "I believe in building secure, innovative, and efficient tech — and learning everything that helps make it possible."  
 > — *Rohit Panwar*
+
+<!-- 🔘 Toggle Button -->
+<button onclick="toggleTheme()" style="position: fixed; top: 1rem; right: 1rem; z-index: 999;">🌓</button>
+
+<!-- 🌑 Dark Mode Style -->
+<link rel="stylesheet" href="/Assets/css/style.css">
+<script src="/Assets/js/darkmode.js"></script>
