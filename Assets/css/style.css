@@ -1,0 +1,33 @@
+/* Default light mode */
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode based on user system preference */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  a {
+    color: #bb86fc;
+  }
+
+  .container {
+    border-color: #444;
+  }
+}
+
+/* Manual toggle dark mode */
+body[data-theme='dark'] {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+body[data-theme='light'] {
+  background-color: white;
+  color: black;
+}
