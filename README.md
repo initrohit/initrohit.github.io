@@ -1,44 +1,37 @@
 # Cybersecurity Engineer | Developer | Tech Explorer
 
-####  Technical Skills:
-Linux, Networking, Python, Java, C#, Game Development (Unity), Bash, Git
+---
+# Hi there, I'm Rohit Panwar 👋
+
+I'm a **Computer Science Engineering graduate specializing in Cybersecurity**, with a strong passion for **Linux system automation, cloud infrastructure (AWS)**, and **software development**.
+
+## 🔧 Tech Stack & Skills
+- **Programming Languages**: Java, C#, Python, Perl, Shell Scripting
+- **Cloud & DevOps**: AWS (EC2, S3, IAM, CLI), Linux System Administration, Git, Jenkins (basic)
+- **Software Development**: Object-Oriented Design, Distributed Systems, Algorithms & Data Structures
+- **Tools & Frameworks**: Unity (Prototyping), Firebase, Blender
+- **Databases**: SQL, Firebase Realtime Database
+- **Networking**: TCP/IP, Router & Switch Configuration, Network Troubleshooting
+
+## 🚀 Projects
+### 🗂 Linux Backup Automation Script
+Automated directory backups on Linux using Perl scripts, scheduled via cron jobs, and integrated with AWS S3 for off-site redundancy. [View Project](#)
+
+### 🔄 Distributed File Synchronization Tool
+Built a scalable sync tool in Perl/Python to maintain data consistency across distributed Linux environments, with conflict detection and AWS S3 backups. [View Project](#)
+
+### 🎮 PlayVerse 3-in-1 Arcade App
+Developed an interactive arcade-style mobile app using Unity and Firebase, featuring real-time database and user authentication. [View Project](#)
+
+## 📈 Currently Learning
+- Advanced AWS Architecting (SAA-C03)
+- System Design Patterns
+- Linux Performance Tuning & Monitoring Tools
 
 ---
 
-##  Education
-- **B.Tech in Computer Science and Engineering**  
-  Specialization: Cybersecurity  
-  _DIT University_
+⚡ *I love automating things, solving system-level problems, and continuously learning new technologies to build scalable and efficient solutions.*
 
----
-
-##  Projects & Experience
-
-###  **Network Intrusion Detection System (NIDS) using Python & Scapy**
-Built a lightweight packet sniffer using Scapy to identify suspicious patterns in real-time traffic. Implemented custom rules for detecting anomalies and performed deep packet inspection to simulate a basic NIDS.
-
-###  **3D FPS Game with Unity & C#**
-Designed a fully functional first-person shooter game environment using Unity Engine. Integrated custom scripts in C# for player control, shooting mechanics, AI behavior, and UI systems.
-
-###  **Linux Security Hardening Automation**
-Created a bash script that auto-configures firewalls, disables unused services, and ensures secure SSH settings. Targeted at beginner sysadmins to harden Linux machines instantly.
-
-###  **Portfolio Website (GitHub Pages)**
-Published a personal portfolio using GitHub Pages, HTML, and CSS. Demonstrated understanding of version control, static site deployment, and Git workflows.
-
----
-
-##  Passion Projects
-- Explored **ethical hacking** techniques in lab simulations using tools like Wireshark, Nmap, and Burp Suite.
-- Built basic **packet analysis** utilities using raw sockets in Python.
-- Customized **Linux kernels** and explored bash scripting for automation.
-
----
-
-##  Interests
-Cybersecurity • Ethical Hacking • Game Development • System Programming • Open-Source Contribution • Learning New Technologies
-
----
 
 ## 🔗 Connect with Me
 - GitHub: [initrohit](https://github.com/initrohit)
