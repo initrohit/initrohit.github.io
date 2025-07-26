@@ -35,7 +35,7 @@ Developed an interactive arcade-style mobile app using Unity and Firebase, featu
 
 ## 🔗 Connect with Me
 - GitHub: [initrohit](https://github.com/initrohit)
-- LinkedIn: www.linkedin.com/in/panwarrohit
+- LinkedIn:[linkedin.com/in/panwarrohit](https://linkedin.com/in/panwarrohit)
 
 ---
 
